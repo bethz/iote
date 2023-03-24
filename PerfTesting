@@ -1,0 +1,3 @@
+# Performance testing
+
+This type of testing evaluates the performance of the devices in terms of factors such as bandwidth, latency, and throughput, to ensure that they meet the expected performance standards. Performance testing could include testing for factors such as data transfer rates, network latency, and power consumption. For example, if the standard specifies a maximum data transfer rate for PoE-enabled IoT devices, then performance testing would ensure that devices meet this requirement.
