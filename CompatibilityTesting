@@ -1,0 +1,4 @@
+# Compatibility testing
+
+This type of testing evaluates the ability of devices to work seamlessly with other devices and systems in the same network. Compatibility testing could include testing for interoperability with other PoE-enabled devices and with network switches and routers. For example, if the standard specifies that devices must be compatible with specific network switches, then compatibility testing would ensure that devices can work with these switches.
+Overall, each of these testing areas is important for validating interoperability of IoT over Ethernet devices against the new standard, and a comprehensive testing plan would typically involve a combination of these types of testing.
