@@ -1,0 +1,3 @@
+# Security testing
+
+This type of testing evaluates the security of the devices against potential cyber threats, to ensure that they are secure and that they don't pose a risk to the network. Security testing could include testing for factors such as encryption, authentication, and access control. For example, if the standard specifies that PoE-enabled IoT devices must support AES encryption, then security testing would ensure that devices meet this requirement.
