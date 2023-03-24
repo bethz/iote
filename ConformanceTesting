@@ -1,0 +1,3 @@
+# Conformance testing
+
+This type of testing checks whether the devices conform to the technical specifications and requirements specified in the standard. Conformance testing could include testing for compliance with the power levels, cable lengths, and Ethernet standards specified in the standard. For example, if the standard specifies that devices must support IEEE 802.3af or IEEE 802.3at Ethernet standards, then conformance testing would ensure that devices meet these requirements.
